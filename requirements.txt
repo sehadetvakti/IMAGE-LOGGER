@@ -1,2 +1,5 @@
 requests
 httpagentparser
+txtfastapi
+uvicorn
+mangum
